@@ -1,10 +1,10 @@
 import './App.css'
 import Navbar from './Components/Navbar.jsx'
 import Hemo from './Components/Home/Hemo.jsx'
-import About from './Components/About.jsx'
+import About from './Components/about.jsx'
 import Services from './Components/Services.jsx'
 import Pricing from './Components/Pricing.jsx'
-import Contact from './Components/Contact.jsx'
+import Contact from './Components/contact.jsx'
 
 import AboutHome from './Components/Home/AboutHome.jsx'
 import ServiceHome from './Components/Home/ServiceHome.jsx'
