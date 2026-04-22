@@ -2,7 +2,7 @@
 import Img2 from '../Images/Img2.jpg';
 import Img3 from '../Images/Img3.jpg';
 
-function about() {
+function About() {
     return (
         <div className="w-full flex flex-col gap-20 justify-center items-center py-0 bg-gray-100">
 
@@ -71,4 +71,4 @@ function about() {
     );
 }
 
-export default about;
+export default About;

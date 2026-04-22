@@ -1,7 +1,7 @@
 import './App.css'
 import Navbar from './Components/Navbar.jsx'
 import Hemo from './Components/Home/Hemo.jsx'
-import About from './Components/about.jsx'
+import About from './Components/About.jsx'
 import Services from './Components/Services.jsx'
 import Pricing from './Components/Pricing.jsx'
 import Contact from './Components/contact.jsx'
